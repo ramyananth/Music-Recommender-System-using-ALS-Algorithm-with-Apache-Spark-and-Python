@@ -2,7 +2,7 @@ For this project, you are to create a recommender system that will recommend new
 
 To create this system you will be using Spark and the collaborative filtering technique. The instructions for completing this project will be laid out entirely in this file. You will have to implement any missing code as well as answer any questions.
 
-Datasets
+Datasets:
 
 You will be using some publicly available song data from audioscrobbler, which can be found here. However, we modified the original data files so that the code will run in a reasonable time on a single machine. The reduced data files have been suffixed with _small.txt and contains only the information relevant to the top 50 most prolific users (highest artist play counts).
 
